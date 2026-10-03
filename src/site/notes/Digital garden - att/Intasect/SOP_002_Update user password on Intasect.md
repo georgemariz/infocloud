@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-att/intasect/sop-002-update-user-password-on-intasect/","created":"2026-07-24T07:40:41.457+02:00","updated":"2026-10-03T10:59:03.432+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/digital-garden-att/intasect/sop-002-update-user-password-on-intasect/","created":"2026-07-24T07:40:41.457+02:00","updated":"2026-10-03T11:00:16.205+02:00","dg-note-properties":{}}
 ---
-
-2026-08-15, 05:44:21
 
 
 1. Navigate to https://imperial.intasect.co.za/
