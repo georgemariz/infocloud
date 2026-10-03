@@ -3,6 +3,6 @@
 ---
 
 
-[[Digital garden - att/Standard operating procedures\|Standard operating procedures]]
+[[Digital garden - att/Intasect/Standard operating procedures\|Standard operating procedures]]
 
 
